@@ -1,0 +1,23 @@
+{
+  "name": "distribution-engineering",
+  "displayName": "Distribution Engineering",
+  "version": "0.1.0",
+  "description": "Get your product seen and adopted as an engineered, compounding system.",
+  "author": {
+    "name": "Ossian Hempel",
+    "url": "https://github.com/ossianhempel"
+  },
+  "homepage": "https://github.com/ossianhempel/distribution-engineering",
+  "repository": "https://github.com/ossianhempel/distribution-engineering",
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "plugin",
+    "marketing",
+    "distribution",
+    "brand",
+    "content",
+    "organic-growth",
+    "compounding"
+  ]
+}

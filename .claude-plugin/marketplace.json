@@ -1,0 +1,32 @@
+{
+  "name": "distribution-engineering",
+  "owner": {
+    "name": "Ossian Hempel",
+    "url": "https://github.com/ossianhempel"
+  },
+  "metadata": {
+    "description": "Plugin marketplace for Distribution Engineering — the marketing-side analog of compound engineering.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "distribution-engineering",
+      "description": "Get your product seen and adopted as an engineered, compounding system. Brand voice, distribution playbooks, and a content memory that gets smarter with every post.",
+      "author": {
+        "name": "Ossian Hempel",
+        "url": "https://github.com/ossianhempel"
+      },
+      "homepage": "https://github.com/ossianhempel/distribution-engineering",
+      "tags": [
+        "marketing",
+        "distribution",
+        "brand",
+        "content",
+        "organic-growth",
+        "ai-powered",
+        "compounding"
+      ],
+      "source": "./plugins/distribution-engineering"
+    }
+  ]
+}
