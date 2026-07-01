@@ -93,16 +93,18 @@ Built outward from the anchor, only as real use demands each one.
 
 Skills:
 1. **`de-brand`** ✅ — brand voice, positioning, audience → `BRAND.md`
-2. `de-distribution` — channel playbook → `DISTRIBUTION.md`
-3. `de-design` — visual identity → `DESIGN.md`
-4. `de-ideate` → `de-write` → `de-content-review` — the make loop
-5. `de-compound` + `de-pulse` — the compounding spine (log results, mine patterns)
+2. **`de-content-review`** ✅ — persona-panel review of a draft → ship/revise/rewrite
+3. `de-distribution` — channel playbook → `DISTRIBUTION.md`
+4. `de-design` — visual identity → `DESIGN.md`
+5. `de-ideate` → `de-write` — the make loop (feeds `de-content-review`)
+6. `de-compound` + `de-pulse` — the compounding spine (log results, mine patterns)
 
-Subagents (the `de-content-review` panel):
+Subagents (the `de-content-review` panel — all read-only):
+- **`de-hook-reviewer`** ✅ — does the first line / first 3s stop the scroll?
+- **`de-resonance-reviewer`** ✅ — the golden flow: emotion + specificity before product
+- **`de-cta-reviewer`** ✅ — soft CTA, standalone value, product-as-tool
 - **`de-slop-reviewer`** ✅ — AI-slop + voice-drift detector (reads `BRAND.md`)
-- `de-hook-reviewer` — does the first line stop the scroll?
-- `de-cta-reviewer` — one clear next action?
-- `de-channel-fit-reviewer` — right length/format for the channel per `DISTRIBUTION.md`
+- **`de-channel-fit-reviewer`** ✅ — platform-native format per `DISTRIBUTION.md`
 
 ## For contributors
 

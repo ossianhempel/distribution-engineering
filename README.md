@@ -44,10 +44,11 @@ you which hooks land for *your* audience.
 Early. Built outward from the anchor, one skill at a time, as real use demands it.
 
 - [x] **`de-brand`** (skill) — brand voice, positioning, audience → `BRAND.md`
-- [x] **`de-slop-reviewer`** (subagent) — AI-slop + voice-drift detector
+- [x] **`de-content-review`** (skill) — persona-panel review → ship/revise/rewrite
+- [x] **Review panel** (5 subagents) — hook · resonance · CTA/value · slop/voice · channel-fit
 - [ ] `de-distribution` — channel playbook → `DISTRIBUTION.md`
 - [ ] `de-design` — visual identity → `DESIGN.md`
-- [ ] `de-ideate` / `de-write` / `de-content-review` — the make loop (spawns the review panel)
+- [ ] `de-ideate` / `de-write` — the make loop (feeds the review)
 - [ ] `de-compound` / `de-pulse` — the compounding spine
 
 ## Install
